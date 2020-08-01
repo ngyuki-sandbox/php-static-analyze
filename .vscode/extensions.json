@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "bmewburn.vscode-intelephense-client",
+        "getpsalm.psalm-vscode-plugin",
+        "mandy91.vscode-phpstan",
+        "tysonandre.php-phan",
+    ]
+}
